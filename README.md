@@ -11,7 +11,7 @@ I create user-friendly, interactive, and efficient web applications.
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
 - **Front-end:** React, Bootstrap
-- **Back-end:** Node.js
+- **Back-end:** PHP, Node.js
 - **Databases:** MySQL
 - **Tools:** Git, VS Code, Figma, Canva
 - **Other:** Responsive Design
