@@ -14,12 +14,14 @@ I create user-friendly, interactive, and efficient web applications.
 - **Front-end:** React, Bootstrap
 - **Back-end:** Node.js
 - **Databases:** MySQL
-- **Tools:** Git, VS Code
+- **Tools:** Git, VS Code, Figma, Canva
 - **Other:** Responsive Design
 
 ## Get in Touch
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/adriennecarlocortez)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adriennecarlocortez)
+
+![](https://komarev.com/ghpvc/?username=adriennecarlocortez&style=flat-square&label=PROFILE+VIEWS)
 
 
 <!--
