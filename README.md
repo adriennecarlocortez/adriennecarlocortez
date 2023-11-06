@@ -27,7 +27,8 @@ I create user-friendly, interactive, and efficient web applications.
 -->
 
 <!--Most Used Languages-->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--Profile Views-->
 ![](https://komarev.com/ghpvc/?username=adriennecarlocortez&style=flat-square&label=PROFILE+VIEWS)
 
