@@ -22,7 +22,7 @@ I create user-friendly, interactive, and efficient web applications.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adriennecarlocortez)
 
 <!--Adrienne Github Stats-->
-[![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriennecarlocortez)](https://github.com/adriennecarlocortez/github-readme-stats)
 
 <!--Profile Views-->
 ![](https://komarev.com/ghpvc/?username=adriennecarlocortez&style=flat-square&label=PROFILE+VIEWS)
