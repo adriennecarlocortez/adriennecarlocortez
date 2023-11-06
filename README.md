@@ -1,6 +1,4 @@
-# Hi there, My name is Adrienne 👋 
-
-I create user-friendly, interactive, and efficient web applications.
+Hi there, My name is Adrienne 👋 
 ---
 ## About Me
 
