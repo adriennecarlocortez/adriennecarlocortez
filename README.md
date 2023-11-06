@@ -1,7 +1,11 @@
 # Hi there, My name is Adrienne 👋 
 
 ## About Me
+I create user-friendly, interactive, and efficient web applications.
 
+- 🔭 I’m currently working on **projects to add to my portfolio**
+- 🌱 I’m currently learning **Web Developing**
+- 📚 Fun Fact: I love reading manga and light novels in my free time. I'm always up for recommendations
 
 <!--
 - 🌐 Website: [Your Portfolio Website](https://www.yourwebsite.com)
