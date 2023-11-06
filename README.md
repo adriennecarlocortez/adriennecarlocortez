@@ -18,7 +18,7 @@ I create user-friendly, interactive, and efficient web applications.
 - **Other:** Responsive Design
 
 ## Get in Touch
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/adriennecarlocortez))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/adriennecarlocortez)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adriennecarlocortez)
 
 
