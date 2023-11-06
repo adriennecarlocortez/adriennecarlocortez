@@ -5,9 +5,9 @@ I create user-friendly, interactive, and efficient web applications.
 
 <!--
 - 🌐 Website: [Your Portfolio Website](https://www.yourwebsite.com)
+- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
 -->
 - 💼 LinkedIn: [Adrienne Carlo Cortez](https://www.linkedin.com/in/adriennecarlocortez)
-- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
