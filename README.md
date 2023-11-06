@@ -5,8 +5,8 @@ I create user-friendly, interactive, and efficient web applications.
 
 - 🔭 I’m currently working on **projects to add to my portfolio**
 - 🌱 I’m currently learning **Web Developing**
-- 💼 LinkedIn: [Adrienne Carlo Cortez](https://www.linkedin.com/in/adriennecarlocortez)
-- 📚 Fun Fact: I love reading manga and light novels in my free time. I'm always up for recommendations
+- 💼 LinkedIn: **[Adrienne Carlo Cortez](https://www.linkedin.com/in/adriennecarlocortez)**
+- 📚 Fun Fact: **I love reading manga and light novels in my free time. I'm always up for recommendations**
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
