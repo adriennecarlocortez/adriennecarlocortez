@@ -5,13 +5,8 @@ I create user-friendly, interactive, and efficient web applications.
 
 - 🔭 I’m currently working on **projects to add to my portfolio**
 - 🌱 I’m currently learning **Web Developing**
-- 📚 Fun Fact: I love reading manga and light novels in my free time. I'm always up for recommendations
-
-<!--
-- 🌐 Website: [Your Portfolio Website](https://www.yourwebsite.com)
-- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
--->
 - 💼 LinkedIn: [Adrienne Carlo Cortez](https://www.linkedin.com/in/adriennecarlocortez)
+- 📚 Fun Fact: I love reading manga and light novels in my free time. I'm always up for recommendations
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
@@ -24,11 +19,6 @@ I create user-friendly, interactive, and efficient web applications.
 ## Get in Touch
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/adriennecarlocortez)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adriennecarlocortez)
-
-<!--Adrienne Github Stats-->
-<!--
-[![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriennecarlocortez)](https://github.com/adriennecarlocortez/github-readme-stats)
--->
 
 <!--Most Used Languages-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriennecarlocortez&layout=compact)
@@ -50,4 +40,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--Adrienne Github Stats-->
+<!--
+[![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriennecarlocortez)](https://github.com/adriennecarlocortez/github-readme-stats)
+-->
+
+<!--
+- 🌐 Website: [Your Portfolio Website](https://www.yourwebsite.com)
+- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
 -->
